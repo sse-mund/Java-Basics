@@ -1,4 +1,4 @@
-package main.java.org.example;
+package example;
 
 public class StringConcepts {
 
